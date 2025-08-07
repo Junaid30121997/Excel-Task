@@ -12,10 +12,19 @@ This repository contains Excel files used for job application processes, includi
 - This was used to complete a test assignment, possibly for the BI Developer role.
 - Demonstrates Excel skills including formulas, formatting, and data handling.
 
----
+##  Use Cases (HR Viewpoint)
 
-##  Purpose
-These files were submitted as part of the application process for the **BI Developer** role at **Aliaxis**. They reflect my hands-on experience with Excel and task organization.
+- Efficiently tracking field technician performance
+- Monitoring cost-efficiency across service orders
+- Identifying rush orders and workload distribution
+- Building foundational BI dashboards from structured Excel
+
+ ##  What This Task Demonstrates
+
+-  Ability to work with multi-column structured data
+-  Realistic understanding of operations & logistics data
+-  Clean formatting, date handling, and cost calculations
+-  Business logic comprehension through practical data
 
 
 
